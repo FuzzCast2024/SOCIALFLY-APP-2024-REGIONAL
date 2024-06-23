@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966546105034",
+    "project_id": "sociafly-832a5",
+    "storage_bucket": "sociafly-832a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966546105034:android:c8bb9d6209543935a1ca33",
+        "android_client_info": {
+          "package_name": "com.sociafly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHssPomUDzqti8XNXP_8IjUgKzn1vbuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
